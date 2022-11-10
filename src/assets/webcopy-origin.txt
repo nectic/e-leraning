@@ -1,0 +1,228 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\technext.github.io\npm\bootstrap-icons@1.4.1\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9
+File Name: C:\Downloaded Web Sites\technext.github.io\npm\bootstrap-icons@1.4.1\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/fonts/bootstrap-icons.woff?231ce25e89ab5804f9a6c427b8d325c9
+File Name: C:\Downloaded Web Sites\technext.github.io\npm\bootstrap-icons@1.4.1\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\technext.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://code.jquery.com/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\technext.github.io\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://technext.github.io/elearning/404.html
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\404.html
+Content Type: text/html
+
+Uri: https://technext.github.io/elearning/about.html
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\about.html
+Content Type: text/html
+
+Uri: https://technext.github.io/elearning/contact.html
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\contact.html
+Content Type: text/html
+
+Uri: https://technext.github.io/elearning/courses.html
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\courses.html
+Content Type: text/html
+
+Uri: https://technext.github.io/elearning/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://technext.github.io/elearning/css/style.css
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\css\style.css
+Content Type: text/css
+
+Uri: https://technext.github.io/elearning/img/about.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\about.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/carousel-1.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\carousel-1.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/carousel-2.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\carousel-2.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/cat-1.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\cat-1.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/cat-2.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\cat-2.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/cat-3.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\cat-3.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/cat-4.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\cat-4.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/course-1.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\course-1.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/course-2.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\course-2.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/course-3.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\course-3.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/team-1.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/team-2.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/team-3.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/team-4.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/testimonial-1.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\testimonial-1.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/testimonial-2.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\testimonial-2.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/testimonial-3.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\testimonial-3.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/img/testimonial-4.jpg
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\img\testimonial-4.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/elearning/index.html
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\index.html
+Content Type: text/html
+
+Uri: https://technext.github.io/elearning/js/main.js
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\js\main.js
+Content Type: application/javascript
+
+Uri: https://technext.github.io/elearning/lib/animate/animate.min.css
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\lib\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://technext.github.io/elearning/lib/easing/easing.min.js
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\lib\easing\easing.min.js
+Content Type: application/javascript
+
+Uri: https://technext.github.io/elearning/lib/owlcarousel/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\lib\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://technext.github.io/elearning/lib/owlcarousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\lib\owlcarousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://technext.github.io/elearning/lib/waypoints/waypoints.min.js
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://technext.github.io/elearning/lib/wow/wow.min.js
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\lib\wow\wow.min.js
+Content Type: application/javascript
+
+Uri: https://technext.github.io/elearning/team.html
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\team.html
+Content Type: text/html
+
+Uri: https://technext.github.io/elearning/testimonial.html
+File Name: C:\Downloaded Web Sites\technext.github.io\elearning\testimonial.html
+Content Type: text/html
+
